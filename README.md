@@ -1,19 +1,16 @@
-# \<question-3\>
 
-
-
-## Question 1. Which of the following are interfaces of web applications?
+### Question 1. Which of the following are interfaces of web applications?
 
 a
 
-## Question 2. Which of the following status codes denotes a server error?
+### Question 2. Which of the following status codes denotes a server error?
 
 e
 
-## Question 3. Predict the output of the following code:
+### Question 3. Predict the output of the following code:
 true education name surname residence age
 
-## Question 4.
+### Question 4.
 ```
 <link rel="import" href="../polymer/polymer-element.html">
 <link rel="import" href="../iron-input/iron-input.html">
@@ -69,7 +66,7 @@ true education name surname residence age
   </script>
 </dom-module>
 ```
-## Question 8. Consider the following html code:
+### Question 8. Consider the following html code:
 
 <style> .test{ display: inline; }
 </style>
